@@ -7,4 +7,3 @@ Preview:\
 
 Watch Demo:\
 https://user-images.githubusercontent.com/108328227/193252822-f50bb9e5-2d81-4b80-a78f-e3d538556315.mp4
-
