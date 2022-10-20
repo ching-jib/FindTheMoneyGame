@@ -1,6 +1,6 @@
-/* Javascript Assessment: Find The H̶a̶t̶ Money Game */
+/* Javascript Assessment: Find The Money Game */
 
-/* ----------------------------------------------------------------------
+/* ----------------------------------------------------------------
 Instructions:
 
 Please install the following npm packages.
@@ -9,7 +9,7 @@ These are all necessary for this JavaScript application to run properly.
 2) npm install clear-screen
 3) npm install --save print-message
 4) npm run main to start/restart the game
-------------------------------------------------------------------------- */
+------------------------------------------------------------------- */
 
 // Import all required modules & create global variables
 const prompt = require("prompt-sync")({ sigint: true });
